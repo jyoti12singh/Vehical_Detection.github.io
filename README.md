@@ -1,1 +1,1 @@
-# Vihical_Detection.github.io
+# Vehical_Detection.github.io
